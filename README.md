@@ -43,36 +43,36 @@ Talk to your PDFs like a boss. This app lets you upload any PDF and ask question
 
 ### 1. Clone the repo
 
-\`\`\`bash
-git clone https://github.com/your-username/pdf-chatbot.git
+```bash
+git clone https://github.com/Prince-05/pdf-chatbot
 cd pdf-chatbot
-\`\`\`
+```
 
 ### 2. Create `.env` file
 
-\`\`\`env
+```env
 # .env
 TOGETHER_API_KEY=your_together_api_key_here
-\`\`\`
+```
 
 ### 3. Create virtual environment
 
-\`\`\`bash
+```bash
 python3 -m venv venv
 source venv/bin/activate
-\`\`\`
+```
 
 ### 4. Install dependencies
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### 5. Run locally
 
-\`\`\`bash
+```bash
 streamlit run app.py
-\`\`\`
+```
 
 ---
 ---
@@ -96,4 +96,4 @@ MIT License — free to use, modify, and deploy. Just don’t sell it to your co
 
 ## 🙌 Author
 
-Built by [Princy](https://github.com/your-username) with frustration, caffeine, and a dream to bully PDFs back.
+Built by [Princy](https://github.com/Prince-05) with frustration, caffeine, and a dream to bully PDFs back.
