@@ -11,4 +11,6 @@ __pycache__/
 *.py[cod]
 *.so
 
+# System files
 .DS_Store
+Thumbs.db
