@@ -11,8 +11,6 @@ Talk to your PDFs like a boss. This app lets you upload any PDF and ask question
 - 🔍 Fast, local embedding with `all-MiniLM-L6-v2`
 - 🤖 Together AI models like `deepseek-ai/DeepSeek-V3` for responses
 - 💾 Vector search powered by FAISS
-- 🔁 Avoids reprocessing the same PDF
-- 🌐 One-click deploy on Streamlit Cloud
 
 ---
 ### PDF Chatbot Demo Screenshots

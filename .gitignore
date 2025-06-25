@@ -10,3 +10,5 @@ ENV/
 __pycache__/
 *.py[cod]
 *.so
+
+.DS_Store
