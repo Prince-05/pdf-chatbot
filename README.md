@@ -36,6 +36,12 @@ Talk to your PDFs like a boss. This app lets you upload any PDF and ask question
 | [PyPDF](https://pypi.org/project/pypdf/) | PDF parsing |
 
 ---
+## 🚀 Live Demo
+
+👉 [**Try it here**](https://pdf-chatbot-lzmg7it6jn3axsrcnzepuu.streamlit.app/) — no setup needed!  
+Upload any PDF and start chatting with it in seconds.
+
+---
 
 ## 🧪 Local Setup
 
