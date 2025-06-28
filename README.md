@@ -92,8 +92,8 @@ streamlit run app.py
 
 ---
 
-## 📜 License
-
+## 📜 License 
+                     
 MIT License — free to use, modify, and deploy. Just don’t sell it to your cousin as a startup and forget to invite me to Shark Tank.
 
 ---
